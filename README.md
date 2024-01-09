@@ -3,7 +3,7 @@
 ![dm_tool Webpage](https://github.com/spinjet/dm_tool/blob/main/assets/full_framework_viz.jpeg?raw=true)
 *Webpage of the Decision Making Tool*
 
-A simple interactive visualisation webtool for multi-dimensional data produced with the [PDOPT Code]([https://github.com/FutPrInt50/Probabilistic-Design-Optimisation---PDOPT]).
+A simple interactive visualisation webtool for multi-dimensional data produced with the [PDOPT Code](https://github.com/FutPrInt50/Probabilistic-Design-Optimisation---PDOPT).
 
 ### Installation
 
